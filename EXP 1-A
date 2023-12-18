@@ -2,22 +2,27 @@
 
 """
 STEP 1: START
-STEP 2: ENTER A NUMBER 
+STEP 2: define a function factorial 
 STEP 3:let factorial be 1 
-STEP 4:if teh given number is greater than or equal to 1 the
-STEP 5:using for loop in range of 1 and n+1
-STEP 6:factorial will be factorial into given number
-STEP 7: DISPLAY OUTPUT
+STEP 4:if the given number is greater than  1 then
+STEP 5:fact will be fact into given number
+STEP 6:number will be decremented by 1 and return fact
+STEP 7:ENTER A NUMBER
+STEP 7: DISPLAY OUTPUT by calling the function
 STEP 8: STOP
 """
 
 
-n = int (input ("Enter a number: "))
-factorial = 1
-if n >= 1:
-           for i in range (1, n+1):
-               factorial = factorial *i
-print("Factorial of the given number is: ", factorial)
+def factorial(n):
+    fact = 1
+    while n > 1:
+        fact *= n
+        n -= 1
+    return fact
+
+number=int(input("Enter the given number : "))
+result = factorial(number)
+print(f"The factorial of {number} is {result}")
 
 
 # RESULT :  Understood the aim and executed the program.
