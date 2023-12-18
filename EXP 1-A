@@ -8,8 +8,8 @@ STEP 4:if the given number is greater than  1 then
 STEP 5:fact will be fact into given number
 STEP 6:number will be decremented by 1 and return fact
 STEP 7:ENTER A NUMBER
-STEP 7: DISPLAY OUTPUT by calling the function
-STEP 8: STOP
+STEP 8: DISPLAY OUTPUT by calling the function
+STEP 9: STOP
 """
 
 
