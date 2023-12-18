@@ -1,4 +1,16 @@
-# program to find prime number
+# AIM : program to find prime number
+
+"""
+STEP 1: START
+STEP 2: ENTER A NUMBER 
+STEP 3:let flag be equal to 1 and using for loop
+STEP 4:in range 2 and given number
+STEP 5:if remainder of given number for i is 0 then flag true and not a prime number
+STEP 6:if flag is false then prime number
+STEP 7: DISPLAY OUTPUT
+STEP 8: STOP
+"""
+
 
 num=int(input("Enter the number :"))
 flag=False
@@ -10,3 +22,7 @@ if(flag==True)
    print(num,"Not a prime number")
 else:
    print(num,"is a prime number")
+
+
+
+# RESULT :  Understood the aim and executed the program.
