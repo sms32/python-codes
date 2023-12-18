@@ -1,4 +1,5 @@
 # program to find prime number
+
 num=int(input("Enter the number :"))
 flag=False
 for i in range(2,num):
