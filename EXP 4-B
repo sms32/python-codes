@@ -1,4 +1,4 @@
-def perfect(num):
+def is_perfect_number(num):
     # Validate that the number is positive
     if num <= 0:
         return False
