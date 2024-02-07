@@ -1,4 +1,5 @@
 THIS REPO CONSISTS OF PYTHON CODE FOR:
+
 EXP 1 -A  . Write a Python program to find the factorial of a number using while loop
 
 EXP 1-B  . Write a Python program to check whether a number is Prime or not
@@ -9,9 +10,9 @@ EXP 1-D . Write a Python program that iterates the integers from 1 to 15. For mu
 "Karunya" instead of the number and for the multiples of three print "University". For
 numbers which are multiples of both two and three print "KarunyaUniversity".
 
-EXP 1-F . Write a python program to check whether the number is palindrome or not.
+EXP 1-E . Write a python program to check whether the number is palindrome or not.
 
-EXP 1-G . Write a python program to check whether the number is Armstrong number or not.
+EXP 1-F . Write a python program to check whether the number is Armstrong number or not.
 
 EXP 2 A-1 . Write a Python program to find the second smallest and Second largest number in a list.
 
