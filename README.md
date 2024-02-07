@@ -4,13 +4,6 @@ EXP 1 -A  . Write a Python program to find the factorial of a number using while
 EXP 1-B  . Write a Python program to check whether a number is Prime or not
 
 EXP 1-C . Write a Python program to print alphabet pattern 'E'
-*****
-*
-*
-****
-*
-*
-*****.
 
 EXP 1-D . Write a Python program that iterates the integers from 1 to 15. For multiples of two print
 "Karunya" instead of the number and for the multiples of three print "University". For
