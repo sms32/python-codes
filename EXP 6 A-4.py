@@ -1,6 +1,5 @@
-#Write a Python program to get a single string from two given strings,
-#separated by a space, and swap the first characters of each string.//
-
+#Write a Python program to count occurrences of a substring in a
+#string.
 A = input("ENTER A STRING : ")
 print()
 B = input("ENTER A SUBSTRING TO FIND THE COUNT: ")
