@@ -1,0 +1,10 @@
+#Write a Python program to get a single string from two given strings,
+separated by a space, and swap the first characters of each string.//
+
+A = input("ENTER A STRING : ")
+print()
+B = input("ENTER A SUBSTRING TO FIND THE COUNT: ")
+print()
+count = A.count(B)
+print()
+print(f"Number of occurrences of substring is : {count}")
