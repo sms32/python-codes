@@ -1,0 +1,47 @@
+#TURTLE PROGRAM TO DESIGN INDIAN FLAG .
+
+
+
+
+import turtle
+b = turtle.Turtle()
+b.fillcolor('green')
+b.begin_fill()
+b.forward(200)
+b.left(90)
+b.forward(50)
+b.left(90)
+b.forward(400)
+b.left(90)
+b.forward(50)
+b.left(90)
+b.forward(200)
+b.end_fill()
+b.forward(200)
+b.left(90)
+b.forward(100)
+b.left(90)
+b.forward(400)
+
+b.left(90)
+b.forward(50)
+
+b.left(90)
+b.forward(200)
+b.fillcolor('blue')
+b.begin_fill()
+b.circle(25)
+b.end_fill()
+b.forward(200)
+b.left(90)
+b.forward(50)
+b.fillcolor('orange')
+b.begin_fill()
+b.forward(50)
+b.left(90)
+b.forward(400)
+b.left(90)
+b.forward(50)
+b.end_fill()
+b.hideturtle()
+turtle.done()
